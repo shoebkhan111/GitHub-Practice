@@ -4,6 +4,7 @@ const Hamed = () => {
     return (
         <div>
             <h1>Hello Hamed</h1>
+            <p>This is Hamed</p>
         </div>
     );
 };
