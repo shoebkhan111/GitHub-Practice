@@ -8,6 +8,7 @@ import Fariha from "./Components/FARIHA/Fariha";
 import IrfanShah from "./Components/IRFANSHAH/IrfanShah";
 
 import Testing from "./Components/KHWAJA/Testing";
+import Azhar from "./Components/AZHAR/Azhar"
 import Seema from "./Components/SHIRAZSEEMA/Seema";
 import ShoebKhan from "./Components/SHOEBKHAN/ShoebKhan";
 import Sameer from "./Components/Sameer/Sameer";
@@ -20,12 +21,11 @@ function App() {
   return (
     <div className="App">
       <Testing />
-
-
+      
+      <Azhar/>
       <Akram/>
       <Seema/>
       <Fariha />
-
        <ShoebKhan/>
       <Sameer/>
       <Mukassar/>
