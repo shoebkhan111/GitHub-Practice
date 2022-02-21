@@ -1,9 +1,11 @@
 import "./App.css";
-import Testing from "./Components/KHWAJA/Testing";
+import Amrin from "./Components/AMRIN/Amrin";
+import Testing from"./Components/KHWAJA/Testing";
 function App() {
   return (
     <div className="App">
       <Testing />
+     <Amrin/>
     </div>
   );
 }
