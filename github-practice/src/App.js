@@ -5,6 +5,7 @@ import Akram from "./Components/AKRAM/Akram";
 import Fariha from "./Components/FARIHA/Fariha";
 import IrfanShah from "./Components/IRFANSHAH/IrfanShah";
 import Testing from "./Components/KHWAJA/Testing";
+import Azhar from "./Components/AZHAR/Azhar"
 import Seema from "./Components/SHIRAZSEEMA/Seema";
 import ShoebKhan from "./Components/SHOEBKHAN/ShoebKhan";
 import Sameer from "./Components/Sameer/Sameer";
@@ -16,6 +17,7 @@ function App() {
     <div className="App">
       <Testing />
      <Amrin/>
+           <Azhar/>
       <Akram/>
       <Seema/>
       <Fariha />
