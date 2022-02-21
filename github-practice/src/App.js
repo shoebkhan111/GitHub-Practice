@@ -1,6 +1,12 @@
 import "./App.css";
+
+
+import Akram from "./Components/AKRAM/Akram";
+
 import Fariha from "./Components/FARIHA/Fariha";
+
 import IrfanShah from "./Components/IRFANSHAH/IrfanShah";
+
 import Testing from "./Components/KHWAJA/Testing";
 import Seema from "./Components/SHIRAZSEEMA/Seema";
 import ShoebKhan from "./Components/SHOEBKHAN/ShoebKhan";
@@ -14,14 +20,19 @@ function App() {
   return (
     <div className="App">
       <Testing />
+
+
+      <Akram/>
       <Seema/>
       <Fariha />
+
        <ShoebKhan/>
       <Sameer/>
       <Mukassar/>
       <IrfanShah />
       <Amena />
       <AfrozSir />
+
     </div>
   );
 }
