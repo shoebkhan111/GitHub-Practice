@@ -3,7 +3,8 @@ import React from 'react';
 const Sameer = () => {
     return (
         <div>
-            <h1>Sameer</h1>
+            <h1>New Component</h1>
+            
         </div>
     );
 };
