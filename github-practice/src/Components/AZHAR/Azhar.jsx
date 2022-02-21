@@ -5,6 +5,7 @@ const Azhar = () => {
         <div>
             <h1>My Name is Azhar</h1>
             <h1>hi khwaja sir</h1>
+            <h2>city nanded</h2>
         </div>
     );
 };
