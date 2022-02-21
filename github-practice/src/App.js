@@ -1,7 +1,7 @@
 import "./App.css";
- PDAC-4-Amrin
 import Testing from"./Components/KHWAJA/Testing";
 import Amrin from "./Components/AMRIN/Amrin";
+import Akram from "./Components/AKRAM/Akram";
 import Fariha from "./Components/FARIHA/Fariha";
 import IrfanShah from "./Components/IRFANSHAH/IrfanShah";
 import Testing from "./Components/KHWAJA/Testing";
@@ -11,13 +11,12 @@ import Sameer from "./Components/Sameer/Sameer";
 import Mukassar from "./Components/MUKASSAR/Mukassar";
 import Amena from "./Components/AMENA/Amena";
 import AfrozSir from "./Components/AFROZ_SIR/AfrozSir";
- main
 function App() {
   return (
     <div className="App">
       <Testing />
- PDAC-4-Amrin
      <Amrin/>
+      <Akram/>
       <Seema/>
       <Fariha />
        <ShoebKhan/>
@@ -26,7 +25,11 @@ function App() {
       <IrfanShah />
       <Amena />
       <AfrozSir />
- main
+
+ 
+
+
+
     </div>
   );
 }
