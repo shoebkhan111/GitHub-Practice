@@ -4,7 +4,8 @@ const Mukassar = () => {
     return (
         <div>
             <h1>I am Shaikh Mukassar</h1>
-            <p></p>
+            <p>MBA-MArketing</p>
+            
         </div>
     );
 };
