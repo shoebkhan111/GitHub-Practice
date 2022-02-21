@@ -1,6 +1,7 @@
 import "./App.css";
-import Amrin from "./Components/AMRIN/Amrin";
+
 import Testing from"./Components/KHWAJA/Testing";
+import Amrin from "./Components/AMRIN/Amrin";
 function App() {
   return (
     <div className="App">
