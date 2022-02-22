@@ -14,6 +14,7 @@ import Sameer from "./Components/Sameer/Sameer";
 import Mukassar from "./Components/MUKASSAR/Mukassar";
 import Amena from "./Components/AMENA/Amena";
 import AfrozSir from "./Components/AFROZ_SIR/AfrozSir";
+import Demo from "./Components/DEMO/Demo";
 function App() {
   return (
     <div className="App">
@@ -31,6 +32,7 @@ function App() {
       <IrfanShah />
       <Amena />
       <AfrozSir />
+      <Demo/>
     </div>
   );
 }
